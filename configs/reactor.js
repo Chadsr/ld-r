@@ -12,6 +12,9 @@ export default {
                 maxNumberOfResourcesOnPage: 20,
                 datasetReactor: ['Dataset']
             },
+            'http://localhost:5820/votes/query': {
+
+            },
             'http://ld-r.org/users': {
                 readOnly: 0
             }
